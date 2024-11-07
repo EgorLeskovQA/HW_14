@@ -16,7 +16,7 @@
 <a id="tab"></a>
 ## <a name="Использованный стек технологий">**Использованный стек технологий**</a>
 
-
+<p align="center">
 <img width="6%" title="IntelliJ IDEA" src="images/logo/Intelij_IDEA.svg">
 <img width="6%" title="Java" src="images/logo/Java.svg">
 <img width="6%" title="Selenide" src="images/logo/Selenide.svg">
@@ -27,7 +27,7 @@
 <img width="6%" title="GitHub" src="images/logo/GitHub.svg">
 <img width="6%" title="Jenkins" src="images/logo/Jenkins.svg">
 <img width="6%" title="Telegram" src="images/logo/Telegram.svg">
-
+</p>
 
 
 ---
@@ -73,13 +73,15 @@
 
 Для быстрой визуализации отчетности, после выполнения тестов, результат отчета дублируется в Telegram бот:
 
+<p align="center">
 <img width="70%" title="Telegram Notifications" src="images\Telegramm.png">
-
+</
 
 ---
 
 <a id="video"></a>
 ## <img src="images\video.jpg" title="video" width="4%"/><a name="Видео прохождения тестов">**Видео прохождения тестов**</a>
 
-
+<p align="center">
   <img title="Selenoid Video" src="images/video.gif">
+</p>
