@@ -68,7 +68,7 @@
 ---
 
 <a id="telegramBot"></a>
-## <img src="images/logo/Telegram.svg" title="Jenkins" width="7%"/><a name="Уведомления в Telegram bot">**Уведомления в Telegram bot**</a>
+## <img src="images/logo/Telegram.svg" title="Jenkins" width="5%"/><a name="Уведомления в Telegram bot">**Уведомления в Telegram bot**</a>
 
 Для быстрой визуализации отчетности, после выполнения тестов, результат отчета дублируется в Telegram бот:
 <p align="center">
@@ -78,7 +78,7 @@
 ---
 
 <a id="video"></a>
-## <a name="Видео прохождения тестов">**Видео прохождения тестов**</a>
+## <img src="images\video.jpg" title="Jenkins" width="5%"/><a name="Видео прохождения тестов">**Видео прохождения тестов**</a>
 
 <p align="center">
   <img title="Selenoid Video" src="images/video.gif">
