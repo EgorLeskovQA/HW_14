@@ -1,6 +1,7 @@
 # Проект по автматизации тестовых сценариев для [Т_Банка](https://www.tbank.ru/)
-
+<p align="center">
 <img src="images/Main.png" width="900">
+</p>
 
 ## <img src="images\book.jpg" title="Jenkins" width="4%"/>Содержание
 
@@ -44,8 +45,9 @@
 
 Ссылка на закпуск в [Jenkins](https://jenkins.autotests.cloud/job/at_tbank_hw_14/)
 
-
+<p align="center">
 <img title="Jenkins Build" src="images\Jenkins.png">
+</p>
 
 Для запуска тестов необходимо нажать на кнопку "Build Now". Появится прогресс бар с номером сборки тестов.
 
@@ -57,14 +59,15 @@
 Ссылка на отче в [Allure Report](https://jenkins.autotests.cloud/job/at_tbank_hw_14/allure/)
 ### На скриншоте результаты отчета пяти тестов:
 
+<p align="center">
 <img title="Allure Overview" src="images/Allure.png">
-
+</p>
 
 ### Результат выполнения теста
 
-
+<p align="center">
 <img title="Test Results in Alure" src="images\Allure2.png">
-
+</p>
 
 ---
 
@@ -75,7 +78,7 @@
 
 <p align="center">
 <img width="70%" title="Telegram Notifications" src="images\Telegramm.png">
-</
+</p>
 
 ---
 
