@@ -2,7 +2,7 @@
 
 <img src="images/Main.png" width="900">
 
-## Содержание
+## <img src="images\book.jpg" title="Jenkins" width="5%"/>Содержание
 
 * <a href="#tests">Использованный стек технологий</a>
 * <a href="#tests">Что прверяют тесты</a>
@@ -39,31 +39,40 @@
 ---
 
 <a id="tools"></a>
-## <a name="Jenkins:">**Jenkins:**</a>
+## <img src="images/logo/Jenkins.svg" title="Jenkins" width="5%"/> <a name="Jenkins:">**Jenkins:**</a>
 
-Ссылка на закпуск в [Jenkins]()
+Ссылка на закпуск в [Jenkins](https://jenkins.autotests.cloud/job/at_tbank_hw_14/)
 
-
+<p align="center">
+<img title="Jenkins Build" src="images\Jenkins.png">
+</p>
 
 Для запуска тестов необходимо нажать на кнопку "Build Now". Появится прогресс бар с номером сборки тестов.
 
 ---
 
 <a id="allure"></a>
-## <a name="Отчет в Allure">**Отчет в Allure**</a>
+## <img src="images/logo/Allure_Report.svg" title="Jenkins" width="5%"/><a name="Отчет в Allure">**Отчет в Allure**</a>
 
-Ссылка на отче в [Allure Report](https://jenkins.autotests.cloud/job/homework_13_jenkins_13_10_notifications/4/allure/)
+Ссылка на отче в [Allure Report](https://jenkins.autotests.cloud/job/at_tbank_hw_14/allure/)
 ### На скриншоте результаты отчета пяти тестов:
+<p align="center">
+<img title="Allure Overview" src="images/Allure.png">
+</p>
 
+### Результат выполнения теста
 
+<p align="center">
+<img title="Test Results in Alure" src="images\Allure2.png">
+</p>
 ---
 
 <a id="telegramBot"></a>
-## <a name="Уведомления в Telegram bot">**Уведомления в Telegram bot**</a>
+## <img src="images/logo/Telegram.svg" title="Jenkins" width="7%"/><a name="Уведомления в Telegram bot">**Уведомления в Telegram bot**</a>
 
 Для быстрой визуализации отчетности, после выполнения тестов, результат отчета дублируется в Telegram бот:
 <p align="center">
-    
+<img width="70%" title="Telegram Notifications" src="images\Telegramm.png">
 </p>
 
 ---
@@ -72,5 +81,5 @@
 ## <a name="Видео прохождения тестов">**Видео прохождения тестов**</a>
 
 <p align="center">
-
+  <img title="Selenoid Video" src="images/video.gif">
 </p>
